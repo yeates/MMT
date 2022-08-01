@@ -1,4 +1,4 @@
-# <font color="#660000">M</font>ulti-<font color="#660000">M</font>odality <font color="#660000">T</font>ransformer (ECCV 2022)
+# *M*ulti-*M*odality *T*ransformer (ECCV 2022)
 
 This official repository implements MMT ([Unbiased Multi-Modality Guidance for Image Inpainting](/)) using PyTorch 1.8.0
 
@@ -32,7 +32,7 @@ Downloading RGB image datasets from above links. Then split to train/test set, t
 
 **2. Edge maps**
 
-run `python utils/generate_canny_edge.py` to pre-generate edge maps for corresponding RGB images. Placing them to `f"../training_data/{DATANAME}/edge/train/"`. 
+Run `python utils/generate_canny_edge.py` to pre-generate edge maps for corresponding RGB images. Placing them to `f"../training_data/{DATANAME}/edge/train/"`. 
 
 Optional:
 
@@ -110,14 +110,14 @@ Tips:
 
 - [x] Release training code
 - [x] Release testing code
-- [x] Release pre-trained models of CelebA-HQ
+- [x] Release pre-trained model of CelebA-HQ
 - [ ] Release pre-trained models of OST, Cityscapes
 - [ ] Release a web demo
 
 ## :book: Citations
-Please cite this project in your publications if it helps your research. The following is a BibTeX reference. The BibTeX entry requires the `url` LaTeX package.
+Please cite this project in your publications if it helps your research. The following is a BibTeX reference.
 ```
-TBD
+TBA
 ```
 
 ## :bulb: Acknowledgments
