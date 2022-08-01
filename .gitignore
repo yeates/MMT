@@ -1,0 +1,10 @@
+
+__pycache__
+logdir/
+samples
+checkpoint
+results/
+.vscode/
+*.png
+*.jpg
+TODO
