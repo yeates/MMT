@@ -1,4 +1,4 @@
-# *M*ulti-*M*odality *T*ransformer (ECCV 2022)
+# *M*ulti-*M*odality Guided *T*ransformer (ECCV 2022)
 
 This official repository implements MMT ([Unbiased Multi-Modality Guidance for Image Inpainting](/)) using PyTorch 1.8.0
 
